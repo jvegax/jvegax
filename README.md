@@ -1,6 +1,6 @@
 ### Hi, I'm Jorge 👋
 
-React Native & Full Stack Developer from Spain. For 4+ years I've built mobile apps and released them on the App Store and Google Play. Today I own products end to end: mobile, web, backend, payments and releases.
+React Native & Full Stack Developer from Spain. For 4+ years I've built mobile & web apps.
 
 #### 🚀 What I'm building
 
