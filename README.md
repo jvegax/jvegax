@@ -5,7 +5,7 @@ React Native & Full Stack Developer from Spain. For 4+ years I've built mobile a
 #### 🚀 What I'm building
 
 - 🟢 **[Klubero](https://klubero.com)**: a platform to run sports clubs, live with real clubs. It covers members, season fees by card or SEPA, Stripe Connect payouts, an online store and an AI studio for sponsor creatives.
-- 🚧 **Tickevo**: event ticketing with on-chain tickets on Base, in progress. Fans pay in stablecoins, and resale goes only through Tickevo's own marketplace, where the contract splits each price between the seller, the organizer and the platform.
+- 🚧 **Tickevo**: event ticketing that feels as familiar as any platform you already use, with blockchain under the hood. Organizers stay in control of how their tickets are resold, including price caps that follow each country's law. Fans can buy and resell with confidence, because every ticket can be verified, which leaves no room for fakes or scams. In progress.
 
 #### 💼 Where I've worked
 
