@@ -1,13 +1,22 @@
 ### Hi, I'm Jorge 👋
 
-React Native & Full Stack Developer from Spain. I've been shipping mobile apps for 4+ years. I work at **agap2**, and before that I worked at be beyond and Z1.
+React Native & Full Stack Developer from Spain. For 4+ years I've built mobile apps and released them on the App Store and Google Play. Today I own products end to end: mobile, web, backend, payments and releases.
 
-- 🟢 **[Klubero](https://klubero.com)**: management for sports clubs, live with real clubs
-- 🚧 **Tickevo**: on-chain event ticketing on Base, in progress
+#### 🚀 What I'm building
 
-**Stack:** React Native · Expo · Next.js · NestJS · Prisma · PostgreSQL · Stripe · Solidity<br>
-**AI:** Claude Code · MCP · OpenAI API
+- 🟢 **[Klubero](https://klubero.com)**: a platform to run sports clubs, live with real clubs. It covers members, season fees by card or SEPA, Stripe Connect payouts, an online store and an AI studio for sponsor creatives.
+- 🚧 **Tickevo**: event ticketing with on-chain tickets on Base, in progress. Fans pay in stablecoins, and resale goes only through Tickevo's own marketplace, where the contract splits each price between the seller, the organizer and the platform.
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,prisma,postgres,bun,solidity" />
+#### 💼 Where I've worked
+
+- **agap2**, Nov 2025 – now: I own a product end to end on iOS, Android and web with React Native and Expo, plus EAS releases, CI/CD, Maestro E2E tests, and Stripe and Mastercard integrations.
+- **be beyond**, 2024 – 2025: I led the architecture of two enterprise CRM mobile apps, built from scratch with Expo.
+- **Z1**, 2022 – 2024: I built mobile apps for US startups, a travel agency app and a sports social network, and handled the whole release process on the App Store and Google Play.
+
+#### 🛠 Stack
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,prisma,postgres,redis,tailwind,bun,solidity" />
+
+**AI:** Claude Code as my everyday pair programmer, with rules and skills in each repo · MCP servers · OpenAI API in production
 
 [LinkedIn](https://www.linkedin.com/in/jorge-vega-407247216/) · [klubero.com](https://klubero.com)
