@@ -9,6 +9,9 @@ React Native & Full Stack Developer from Spain. For 4+ years I've built mobile &
 
 #### 💼 Where I've worked
 
-- **agap2**, Nov 2025 – now: I own a product end to end on iOS, Android and web with React Native and Expo, plus EAS releases, CI/CD, Maestro E2E tests, and Stripe and Mastercard integrations.
-- **be beyond**, 2024 – 2025: I led the architecture of two enterprise CRM mobile apps, built from scratch with Expo.
-- **Z1**, 2022 – 2024: I built mobile apps for US startups, a travel agency app and a sports social network, and handled the whole release process on the App Store and Google Play.
+- **[agap2](https://agap2.com/)** - Nov 2025 – now<br>
+  I own a product end to end on iOS, Android and web with React Native and Expo, plus EAS releases, CI/CD, Maestro E2E tests, and Stripe and Mastercard integrations.
+- **[be beyond](https://www.bebeyond.es/)** - 2024 – 2025<br>
+  I led the architecture of two enterprise CRM mobile apps, built from scratch with Expo.
+- **[Z1](https://www.z1.digital/)** - 2022 – 2024<br>
+  I built mobile apps for US startups, a travel agency app and a sports social network, and handled the whole release process on the App Store and Google Play.
